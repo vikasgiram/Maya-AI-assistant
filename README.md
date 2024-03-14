@@ -1,4 +1,4 @@
-# Maya-AI-assistant
+# Maya AI-assistant
   This is the helpful AI assistant which is created for the solving the your qustions in a intractive way.
 
   - It uses the Open AI API in the background to process your questions.
